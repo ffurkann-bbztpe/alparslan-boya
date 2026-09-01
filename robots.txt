@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.ornekdomain.com/sitemap.xml
+Sitemap: https://ffurkann-bbztpe.github.io/alparslan-boya/sitemap.xml
