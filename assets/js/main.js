@@ -73,4 +73,11 @@
       }, { passive: true });
     }
   }
+
+  document.querySelectorAll('header details a[href]').forEach(function (link) {
+    link.addEventListener('click', function () {
+      var d = link.closest('details');
+      if (d) d.removeAttribute('open');
+    });
+  });
 })();
